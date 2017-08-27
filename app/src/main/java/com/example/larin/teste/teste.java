@@ -156,7 +156,7 @@ public class teste extends AppCompatActivity
         @Override
 
         public void run() {
-            for (int i = 15; i >= 0; i--) {
+            for (int i = 40; i >= 0; i--) {
                 try {
                     Thread.sleep(1000);
                 } catch (Exception e) {
